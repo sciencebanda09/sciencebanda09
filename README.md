@@ -6,7 +6,7 @@ Building **consequence-aware reinforcement learning** systems and real-world aut
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
 - Consequence-aware decision making under delayed & stochastic constraints  
 - AI safety & trustworthy autonomous systems  
@@ -14,7 +14,7 @@ Building **consequence-aware reinforcement learning** systems and real-world aut
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
 **ACPL — Adaptive Consequence-Penalized Learning**  
 Pure-NumPy framework (v6.0) for constrained RL with state-conditioned penalties and latent delay estimation.  
@@ -30,14 +30,14 @@ Completed autonomous drone interception system — IMM-EKF tracking, APN guidanc
 
 ---
 
-### 🛠️ Skills
+### Skills
 - **Core**: Reinforcement Learning • Constrained MDPs • AI Safety • Multi-target tracking & guidance  
 - **Languages & Tools**: Python • NumPy • SciPy • Embedded systems (Raspberry Pi, Arduino)  
 - **Other**: Experience replay • Statistical evaluation • LaTeX
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 - **LinkedIn**: [Shashank Dev](https://www.linkedin.com/in/shashank-dev-vigyanveer/)  
 - **Instagram**: [@mechmind_09](https://www.instagram.com/mechmind_09/)
 
