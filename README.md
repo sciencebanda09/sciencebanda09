@@ -1,6 +1,6 @@
-# Hi, I'm Shashank Dev 👋
+# Hi, I'm Shashank Dev 
 
-**Class 12 Student Researcher | Robotics • AI Research • Reinforcement Learning • Autonomous Systems**
+**Robotics • AI Research • Reinforcement Learning • Autonomous Systems**
 
 Building **consequence-aware reinforcement learning** systems and real-world autonomous robotics that make AI safer and more reliable in high-stakes environments.
 
