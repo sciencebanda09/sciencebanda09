@@ -1,0 +1,41 @@
+<svg width="900" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="url(#bg2)" rx="10"/>
+  <rect x="1" y="1" width="898" height="118" rx="9" fill="none" stroke="#1e2a3a" stroke-width="1"/>
+  
+  <!-- Stat blocks -->
+  <!-- NeurIPS -->
+  <rect x="30" y="25" width="160" height="70" rx="6" fill="#7b2fff" opacity="0.1"/>
+  <rect x="30" y="25" width="160" height="2" rx="1" fill="#7b2fff"/>
+  <text x="110" y="52" font-family="'Courier New', monospace" font-size="22" font-weight="900" fill="#a78bff" text-anchor="middle">NeurIPS</text>
+  <text x="110" y="78" font-family="'Courier New', monospace" font-size="11" fill="#6a4fb5" text-anchor="middle">2026 · UNDER REVIEW</text>
+  
+  <!-- Countries -->
+  <rect x="210" y="25" width="140" height="70" rx="6" fill="#00d4ff" opacity="0.08"/>
+  <rect x="210" y="25" width="140" height="2" rx="1" fill="#00d4ff"/>
+  <text x="280" y="52" font-family="'Courier New', monospace" font-size="28" font-weight="900" fill="#00d4ff" text-anchor="middle">60+</text>
+  <text x="280" y="78" font-family="'Courier New', monospace" font-size="11" fill="#3a8a9a" text-anchor="middle">COUNTRIES LIVE</text>
+  
+  <!-- Success rate -->
+  <rect x="370" y="25" width="140" height="70" rx="6" fill="#ff2d78" opacity="0.08"/>
+  <rect x="370" y="25" width="140" height="2" rx="1" fill="#ff2d78"/>
+  <text x="440" y="52" font-family="'Courier New', monospace" font-size="28" font-weight="900" fill="#ff2d78" text-anchor="middle">88.7%</text>
+  <text x="440" y="78" font-family="'Courier New', monospace" font-size="11" fill="#9a3a5a" text-anchor="middle">INTERCEPT RATE</text>
+  
+  <!-- Yield -->
+  <rect x="530" y="25" width="140" height="70" rx="6" fill="#00ffaa" opacity="0.07"/>
+  <rect x="530" y="25" width="140" height="2" rx="1" fill="#00ffaa"/>
+  <text x="600" y="52" font-family="'Courier New', monospace" font-size="28" font-weight="900" fill="#00ffaa" text-anchor="middle">+33%</text>
+  <text x="600" y="78" font-family="'Courier New', monospace" font-size="11" fill="#2a7a5a" text-anchor="middle">CROP YIELD</text>
+  
+  <!-- CSR -->
+  <rect x="690" y="25" width="180" height="70" rx="6" fill="#ffd700" opacity="0.07"/>
+  <rect x="690" y="25" width="180" height="2" rx="1" fill="#ffd700"/>
+  <text x="780" y="52" font-family="'Courier New', monospace" font-size="28" font-weight="900" fill="#ffd700" text-anchor="middle">100%</text>
+  <text x="780" y="78" font-family="'Courier New', monospace" font-size="11" fill="#9a8a2a" text-anchor="middle">CSR (CCPL SAFETY)</text>
+</svg>
