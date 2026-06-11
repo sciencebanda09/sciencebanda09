@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=650&lines=AEGIS-X+%7C+Counter-Drone+Decision+Engine;ACPL+%7C+NeurIPS+2026+—+Under+Review;Technoxian+World+Champion+2024+🏆;D-MechatronicX+%7C+Bihar+→+World;sense().+predict().+act()." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=AEGIS-X+%7C+Counter-Drone+Decision+Engine;ACPL+%7C+NeurIPS+2026+--+Under+Review;Technoxian+World+Champion+2024;D-MechatronicX+%7C+Bihar+to+World;sense().+predict().+act()." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -30,12 +30,12 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║    ██████╗       ███╗   ███╗███████╗ ██████╗██╗  ██╗        ║
-║    ██╔══██╗      ████╗ ████║██╔════╝██╔════╝██║  ██║        ║
-║    ██║  ██║█████╗██╔████╔██║█████╗  ██║     ███████║        ║
-║    ██║  ██║╚════╝██║╚██╔╝██║██╔══╝  ██║     ██╔══██║        ║
-║    ██████╔╝      ██║ ╚═╝ ██║███████╗╚██████╗██║  ██║        ║
-║    ╚═════╝       ╚═╝     ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝        ║
+║    ██████╗       ███╗   ███╗███████╗ ██████╗██╗  ██╗         ║
+║    ██╔══██╗      ████╗ ████║██╔════╝██╔════╝██║  ██║         ║
+║    ██║  ██║█████╗██╔████╔██║█████╗  ██║     ███████║         ║
+║    ██║  ██║╚════╝██║╚██╔╝██║██╔══╝  ██║     ██╔══██║         ║
+║    ██████╔╝      ██║ ╚═╝ ██║███████╗╚██████╗██║  ██║         ║
+║    ╚═════╝       ╚═╝     ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝         ║
 ║                                                              ║
 ║  FILE    : SD-2026-ALPHA       CLEARANCE : OPEN-SOURCE       ║
 ║  SUBJECT : Shashank Dev        ORIGIN    : Bihar, India      ║
@@ -208,7 +208,7 @@ subject = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sciencebanda09&theme=darkhub&no-frame=true&column=6&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sciencebanda09&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&area_color=00ffcc&hide_border=true" width="100%"/>
 
 </div>
 
