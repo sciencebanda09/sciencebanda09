@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=AEGIS-X+%7C+Counter-Drone+Decision+Engine;ACPL+%7C+NeurIPS+2026+--+Under+Review;Technoxian+World+Champion+2024;D-MechatronicX+%7C+Bihar+to+World;sense().+predict().+act()." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=AEGIS-X+%7C+Counter-Drone+Decision+Engine;CCPL+%7C+NeurIPS+2026+--+Under+Review;Technoxian+World+Champion+2024;D-MechatronicX+%7C+Bihar+to+World;sense().+predict().+act()." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -57,7 +57,7 @@ subject = {
     "base"       : "Bihar, India",
     "role"       : "Founder & CEO — D-MechatronicX",
     "arc"        : "₹280 Arduino (2021) → World Champion (2024) → NeurIPS (2026)",
-    "active_ops" : ["AEGIS-X v17", "ACPL/NeurIPS", "iDEX DISC14", "CodeWaifu", "Incuvision"],
+    "active_ops" : ["AEGIS-X v17", "CCPL/NeurIPS", "iDEX DISC14", "CodeWaifu", "Incuvision"],
     "clearance"  : "LEVEL 5 // CLASSIFIED",
     "loop"       : ["sense()", "predict()", "act()"],
     "doctrine"   : "Don't wait for the right conditions. Build through them.",
@@ -73,8 +73,8 @@ subject = {
 | `ID` | `SYSTEM` | `DOMAIN` | `STATUS` | `METRICS` |
 |:----:|----------|----------|:--------:|-----------|
 | `01` | [**AEGIS-X**](https://github.com/sciencebanda09/AEGIS-X-Overview) | Counter-Drone AI | ![](https://img.shields.io/badge/v17_LIVE-00aaff?style=flat-square&labelColor=0d1117) | 88.7% intercept · 13ms · RPi5 edge |
-| `02` | [**ACPL**](https://github.com/sciencebanda09/ACPL-Adaptive-Consequence-Penalized-Learning) | Constrained RL | ![](https://img.shields.io/badge/ACTIVE-00ffcc?style=flat-square&labelColor=0d1117) | NeurIPS 2026 · Pure NumPy v6.0 |
-| `03` | [**GridACPL**](https://github.com/sciencebanda09/GridACPL) | Energy Grid RL | ![](https://img.shields.io/badge/ACTIVE-00ffcc?style=flat-square&labelColor=0d1117) | Consequence-aware benchmark |
+| `02` | [**CCPL**](https://github.com/sciencebanda09/CCPL-Adaptive-Consequence-Penalized-Learning) | Constrained RL | ![](https://img.shields.io/badge/ACTIVE-00ffcc?style=flat-square&labelColor=0d1117) | NeurIPS 2026 · Pure NumPy v6.0 |
+| `03` | [**GridCCPL**](https://github.com/sciencebanda09/GridCCPL) | Energy Grid RL | ![](https://img.shields.io/badge/ACTIVE-00ffcc?style=flat-square&labelColor=0d1117) | Consequence-aware benchmark |
 | `04` | **ROADSOS** | Emergency AI | ![](https://img.shields.io/badge/LIVE-00ff88?style=flat-square&labelColor=0d1117) | 60+ countries · crash detection · v1.0.0 |
 | `05` | **CodeWaifu** | Dev Companion | ![](https://img.shields.io/badge/PHASE_3-ff9900?style=flat-square&labelColor=0d1117) | pygame+PyOpenGL · GLSL shaders · live memory |
 | `06` | **TARS Robot** | Offline AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 100% offline · IMM-EKF · episodic memory |
@@ -82,7 +82,7 @@ subject = {
 | `08` | **Rescue Drone** | Autonomous UAV | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | TBS500 · RPi4 · ROS2 · PX4 · LiDAR |
 | `09` | **RoboticOS** | Embedded OS | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 11 subsystems · SIL-2 safety kernel |
 | `10` | **RoboWeeder** | Agri-Robotics | ![](https://img.shields.io/badge/DEPLOYED-00ff88?style=flat-square&labelColor=0d1117) | 33% yield increase |
-| `11` | **Hospital RMS** | RL Simulation | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | ACPL · real-time bed allocation |
+| `11` | **Hospital RMS** | RL Simulation | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | CCPL · real-time bed allocation |
 | `12` | **Incuvision** | Startup Infra | ![](https://img.shields.io/badge/LIVE-00ff88?style=flat-square&labelColor=0d1117) | Founder execution platform · India |
 | `13` | **Smart Protector** | Safety AI | ![](https://img.shields.io/badge/PUBLISHED-9966ff?style=flat-square&labelColor=0d1117) | India Book of Records · IJNRD |
 | `14` | **Project Kalpana** | Low-Orbit | ![](https://img.shields.io/badge/CLASSIFIED-ff003c?style=flat-square&labelColor=0d1117) | ████████████████ |
@@ -91,16 +91,16 @@ subject = {
 
 ---
 
-## `> ACPL.classified`
+## `> CCPL.classified`
 
 <div align="center">
 
 ```
 ╔────────────────────────────────────────────────────────────────────╗
-│  ACPL // ADAPTIVE CONSEQUENCE-PENALIZED LEARNING                   │
+│  CCPL // ADAPTIVE CONSEQUENCE-PENALIZED LEARNING                   │
 │  ──────────────────────────────────────────────────────────────    │
 │  Most RL agents chase reward.                                      │
-│  ACPL agents learn to care about what happens next.                │
+│  CCPL agents learn to care about what happens next.                │
 │                                                                    │
 │  Architecture  →  Dual-stream actor-critic                         │
 │  Penalties     →  State-conditioned, not hardcoded                 │
@@ -142,12 +142,12 @@ subject = {
 
 ```
 [2026] Founder & CEO — D-MechatronicX · AEGIS-X classified R&D
-[2026] NeurIPS 2026 paper submitted — ACPL constrained RL framework
+[2026] NeurIPS 2026 paper submitted — CCPL constrained RL framework
 [2026] iDEX DISC14 application submitted — under review
 [2026] CodeWaifu Phase 3 — GLSL shader system + persistent memory engine
 [2025] ROADSOS v1.0.0 LIVE — emergency AI, 60+ countries
 [2025] 5 parallel systems shipped in 12 months
-[2025] ACPL formally proven, simulation-validated
+[2025] CCPL formally proven, simulation-validated
 [2024] 🏆 WORLD CHAMPION — Technoxian · FPV Drone Rescue · Delhi
 [2024] Quarterfinalist — Robo Soccer · World Championship
 [2024] Bihar's first team on a world robotics stage
@@ -220,7 +220,7 @@ subject = {
 ✓  Research collaborations · safe RL · constrained decision-making
 ✓  Defense-tech conversations · autonomy · counter-drone systems
 ✓  iDEX / DRDO / Indian defense ecosystem conversations
-✓  Brutal feedback on ACPL — if you can break it, tell me
+✓  Brutal feedback on CCPL — if you can break it, tell me
 ✗  Waiting for the right conditions
 ```
 
