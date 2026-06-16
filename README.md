@@ -73,20 +73,16 @@ subject = {
 | `ID` | `SYSTEM` | `DOMAIN` | `STATUS` | `METRICS` |
 |:----:|----------|----------|:--------:|-----------|
 | `01` | [**AEGIS-X**](https://github.com/sciencebanda09/AEGIS-X-Overview) | Counter-Drone AI | ![](https://img.shields.io/badge/v17_LIVE-00aaff?style=flat-square&labelColor=0d1117) | 88.7% intercept · 13ms · RPi5 edge |
-| `02` | [**CCPL**](https://github.com/sciencebanda09/CCPL-Adaptive-Consequence-Penalized-Learning) | Constrained RL | ![](https://img.shields.io/badge/ACTIVE-00ffcc?style=flat-square&labelColor=0d1117) | NeurIPS 2026 · Pure NumPy v6.0 |
+| `02` | [**CCPL**](https://github.com/sciencebanda09/CCPL-Causal-Consequence-Penalized-Learning) | Constrained RL | ![](https://img.shields.io/badge/ACTIVE-00ffcc?style=flat-square&labelColor=0d1117) | NeurIPS 2026 · Pure NumPy v6.0 |
 | `03` | [**GridCCPL**](https://github.com/sciencebanda09/GridCCPL) | Energy Grid RL | ![](https://img.shields.io/badge/ACTIVE-00ffcc?style=flat-square&labelColor=0d1117) | Consequence-aware benchmark |
 | `04` | **ROADSOS** | Emergency AI | ![](https://img.shields.io/badge/LIVE-00ff88?style=flat-square&labelColor=0d1117) | 60+ countries · crash detection · v1.0.0 |
 | `05` | **CodeWaifu** | Dev Companion | ![](https://img.shields.io/badge/PHASE_3-ff9900?style=flat-square&labelColor=0d1117) | pygame+PyOpenGL · GLSL shaders · live memory |
 | `06` | **TARS Robot** | Offline AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 100% offline · IMM-EKF · episodic memory |
 | `07` | **AI Dustbin** | Trajectory AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 91% catch rate · holonomic drive |
-| `08` | **Rescue Drone** | Autonomous UAV | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | TBS500 · RPi4 · ROS2 · PX4 · LiDAR |
-| `09` | **RoboticOS** | Embedded OS | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 11 subsystems · SIL-2 safety kernel |
-| `10` | **RoboWeeder** | Agri-Robotics | ![](https://img.shields.io/badge/DEPLOYED-00ff88?style=flat-square&labelColor=0d1117) | 33% yield increase |
-| `11` | **Hospital RMS** | RL Simulation | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | CCPL · real-time bed allocation |
-| `12` | **Incuvision** | Startup Infra | ![](https://img.shields.io/badge/LIVE-00ff88?style=flat-square&labelColor=0d1117) | Founder execution platform · India |
-| `13` | **Smart Protector** | Safety AI | ![](https://img.shields.io/badge/PUBLISHED-9966ff?style=flat-square&labelColor=0d1117) | India Book of Records · IJNRD |
-| `14` | **Project Kalpana** | Low-Orbit | ![](https://img.shields.io/badge/CLASSIFIED-ff003c?style=flat-square&labelColor=0d1117) | ████████████████ |
-
+| `08` | **RoboticOS** | Embedded OS | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 11 subsystems · SIL-2 safety kernel |
+| `9` | **Hospital RMS** | RL Simulation | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | CCPL · real-time bed allocation |
+| `10` | **Incuvision** | Startup Infra | ![](https://img.shields.io/badge/LIVE-00ff88?style=flat-square&labelColor=0d1117) | Founder execution platform · India |
+| `11` | **Smart Protector** | Safety AI | ![](https://img.shields.io/badge/PUBLISHED-9966ff?style=flat-square&labelColor=0d1117) | India Book of Records · IJNRD |
 </div>
 
 ---
@@ -125,12 +121,12 @@ subject = {
 │  ──────────────────────────────────────────────────────────────    │
 │  Not a drone detector. The decision layer above all hardware.      │
 │                                                                    │
-│  Intercept Rate   →  88.7%                                         │
-│  Decision Latency →  13ms                                          │
-│  Edge Target      →  Raspberry Pi 5                                │
+│  Intercept Rate   →  97.2%                                         │
+│  Decision Latency →  22ms                                          │
+│  Edge Target      →  Hardware_agnostic                             │
 │  API              →  Live · real engagement metrics                │
 │  Submission       →  iDEX DISC14 · Under Review                    │
-│  Doctrine         →  Palantir for Indian defense                   │
+│          
 ╚────────────────────────────────────────────────────────────────────╝
 ```
 
