@@ -57,7 +57,7 @@ subject = {
     "base"       : "Bihar, India",
     "role"       : "Founder & CEO — D-MechatronicX",
     "arc"        : "₹280 Arduino (2021) → World Champion (2024) → NeurIPS (2026)",
-    "active_ops" : ["AEGIS-X v17", "CCPL/NeurIPS", "iDEX DISC14", "CodeWaifu", "Incuvision"],
+    "active_ops" : ["AEGIS-X", "CCPL/NeurIPS", "iDEX DISC14", "CodeWaifu", "Incuvision"],
     "clearance"  : "LEVEL 5 // CLASSIFIED",
     "loop"       : ["sense()", "predict()", "act()"],
     "doctrine"   : "Don't wait for the right conditions. Build through them.",
@@ -72,7 +72,7 @@ subject = {
 
 | `ID` | `SYSTEM` | `DOMAIN` | `STATUS` | `METRICS` |
 |:----:|----------|----------|:--------:|-----------|
-| `01` | [**AEGIS-X**](https://github.com/sciencebanda09/AEGIS-X-Overview) | Counter-Drone AI | ![](https://img.shields.io/badge/v17_LIVE-00aaff?style=flat-square&labelColor=0d1117) | 88.7% intercept · 13ms · RPi5 edge |
+| `01` | [**AEGIS-X**](https://github.com/sciencebanda09/AEGIS-X-Overview) | Counter-Drone AI | ![](https://img.shields.io/badge/v17_LIVE-00aaff?style=flat-square&labelColor=0d1117) | 97.2% intercept · 23ms · Hardware agnostic |
 | `02` | [**CCPL**](https://github.com/sciencebanda09/CCPL-Causal-Consequence-Penalized-Learning) | Constrained RL | ![](https://img.shields.io/badge/ACTIVE-00ffcc?style=flat-square&labelColor=0d1117) | NeurIPS 2026 · Pure NumPy v6.0 |
 | `03` | [**GridCCPL**](https://github.com/sciencebanda09/GridCCPL) | Energy Grid RL | ![](https://img.shields.io/badge/ACTIVE-00ffcc?style=flat-square&labelColor=0d1117) | Consequence-aware benchmark |
 | `04` | **ROADSOS** | Emergency AI | ![](https://img.shields.io/badge/LIVE-00ff88?style=flat-square&labelColor=0d1117) | 60+ countries · crash detection · v1.0.0 |
@@ -93,7 +93,7 @@ subject = {
 
 ```
 ╔────────────────────────────────────────────────────────────────────╗
-│  CCPL // ADAPTIVE CONSEQUENCE-PENALIZED LEARNING                   │
+│  CCPL // Causal-Consequence-Penalized-Learning                     │
 │  ──────────────────────────────────────────────────────────────    │
 │  Most RL agents chase reward.                                      │
 │  CCPL agents learn to care about what happens next.                │
@@ -117,12 +117,12 @@ subject = {
 
 ```
 ╔────────────────────────────────────────────────────────────────────╗
-│  AEGIS-X v17 // COUNTER-DRONE DECISION ENGINE                      │
+│  AEGIS-X  // COUNTER-DRONE DECISION ENGINE                         │
 │  ──────────────────────────────────────────────────────────────    │
 │  Not a drone detector. The decision layer above all hardware.      │
 │                                                                    │
 │  Intercept Rate   →  97.2%                                         │
-│  Decision Latency →  22ms                                          │
+│  Decision Latency →  23ms                                          │
 │  Edge Target      →  Hardware_agnostic                             │
 │  API              →  Live · real engagement metrics                │
 │  Submission       →  iDEX DISC14 · Under Review                    │
