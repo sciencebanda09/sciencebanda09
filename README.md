@@ -125,7 +125,8 @@ subject = {
 │  Decision Latency →  23ms                                          │
 │  Edge Target      →  Hardware_agnostic                             │
 │  API              →  Live · real engagement metrics                │
-│  Submission       →  iDEX DISC14 · Under Review                    │                                                              
+│  Submission       →  iDEX DISC14 · Under Review                    │
+│          
 ╚────────────────────────────────────────────────────────────────────╝
 ```
 
