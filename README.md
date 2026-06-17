@@ -80,9 +80,10 @@ subject = {
 | `06` | **TARS Robot** | Offline AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 100% offline · IMM-EKF · episodic memory |
 | `07` | **AI Dustbin** | Trajectory AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 91% catch rate · holonomic drive |
 | `08` | **RoboticOS** | Embedded OS | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 11 subsystems · SIL-2 safety kernel |
-| `9` | **Hospital RMS** | RL Simulation | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | CCPL · real-time bed allocation |
+| `09` | **Hospital RMS** | RL Simulation | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | CCPL · real-time bed allocation |
 | `10` | **Incuvision** | Startup Infra | ![](https://img.shields.io/badge/LIVE-00ff88?style=flat-square&labelColor=0d1117) | Founder execution platform · India |
 | `11` | **Smart Protector** | Safety AI | ![](https://img.shields.io/badge/PUBLISHED-9966ff?style=flat-square&labelColor=0d1117) | India Book of Records · IJNRD |
+
 </div>
 
 ---
@@ -94,7 +95,7 @@ subject = {
 ```
 ╔────────────────────────────────────────────────────────────────────╗
 │  CCPL // Causal-Consequence-Penalized-Learning                     │
-│  ──────────────────────────────────────────────────────────────    │
+│  ───────────────────────────────────────────────────────────────   │
 │  Most RL agents chase reward.                                      │
 │  CCPL agents learn to care about what happens next.                │
 │                                                                    │
@@ -118,7 +119,7 @@ subject = {
 ```
 ╔────────────────────────────────────────────────────────────────────╗
 │  AEGIS-X  // COUNTER-DRONE DECISION ENGINE                         │
-│  ──────────────────────────────────────────────────────────────    │
+│  ───────────────────────────────────────────────────────────────   │
 │  Not a drone detector. The decision layer above all hardware.      │
 │                                                                    │
 │  Intercept Rate   →  97.2%                                         │
@@ -126,7 +127,6 @@ subject = {
 │  Edge Target      →  Hardware_agnostic                             │
 │  API              →  Live · real engagement metrics                │
 │  Submission       →  iDEX DISC14 · Under Review                    │
-│          
 ╚────────────────────────────────────────────────────────────────────╝
 ```
 
@@ -157,7 +157,7 @@ subject = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sciencebanda09&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&border_color=00ffcc33&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sciencebanda09&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&border_color=00ffcc33&include_all_commits=true" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sciencebanda09&layout=compact&theme=dark&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&border_color=00ffcc33&langs_count=6" height="165"/>
 
