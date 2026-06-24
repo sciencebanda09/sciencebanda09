@@ -63,15 +63,18 @@ subject = {
 
 | `ID` | `SYSTEM` | `DOMAIN` | `STATUS` | `METRICS` |
 |:----:|----------|----------|:--------:|-----------|
-| `01` | [**AEGIS-X**](https://github.com/sciencebanda09/AEGIS-X-Overview) | Counter-Drone AI | ![](https://img.shields.io/badge/v18_LIVE-00aaff?style=flat-square&labelColor=0d1117) | 97.2% intercept · 23ms · Hardware agnostic |
+| `01` | [**AEGIS-X**](https://github.com/sciencebanda09/AEGIS-X-Overview) | Counter-Drone AI | ![](https://img.shields.io/badge/v18_LIVE-00aaff?style=flat-square&labelColor=0d1117) | 88.7% SR · 13ms · RPi5 + Arduino |
 | `02` | [**CCPL**](https://github.com/sciencebanda09/CCPL-Causal-Consequence-Penalized-Learning) | Constrained RL | ![](https://img.shields.io/badge/NeurIPS_2026-ffcc00?style=flat-square&labelColor=0d1117) | Dual-stream actor-critic · Pure NumPy |
 | `03` | [**SH-WFS AO Pipeline**](https://github.com/sciencebanda09/shwfs-ao-pipeline) | Adaptive Optics AI | ![](https://img.shields.io/badge/ISRO_BAH_2026-9966ff?style=flat-square&labelColor=0d1117) | C+OpenMP centroiding · CNN reconstruction · SLODAR |
-| `04` | **ROADSOS** | Emergency AI | ![](https://img.shields.io/badge/v3.1.1_LIVE-00ff88?style=flat-square&labelColor=0d1117) | 60+ countries · crash detection |
-| `05` | **TARS Robot** | Offline AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 100% offline · IMM-EKF · episodic memory |
-| `06` | **AI Dustbin** | Trajectory AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 91% catch rate · holonomic drive |
-| `07` | **RoboticOS** | Embedded OS | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 11 subsystems · SIL-2 safety kernel |
-| `08` | **Hospital RMS** | RL Simulation | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | CCPL · real-time bed allocation |
-
+| `04` | [**ROADSOS**](https://github.com/sciencebanda09/ROADSOS) | Emergency AI | ![](https://img.shields.io/badge/v3.1.1_LIVE-00ff88?style=flat-square&labelColor=0d1117) | 60+ countries · crash detection |
+| `05` | [**TARS Robot**](https://github.com/sciencebanda09/TARS-Robot) | Offline AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 100% offline · IMM-EKF · episodic memory |
+| `06` | [**RoboticOS**](https://github.com/sciencebanda09/RoboticOS) | Embedded OS | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 11 subsystems · RTOS-inspired · safety kernel |
+| `07` | [**Nexus MultiAgent**](https://github.com/sciencebanda09/nexus-multiagent) | Multi-Agent AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 6 agents · 12 tools · ChromaDB memory · Ollama |
+| `08` | [**Chronos Engine**](https://github.com/sciencebanda09/chronos-engine) | Causal Simulation | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | Fork realities · causal timeline engine |
+| `09` | [**bird-language-ml**](https://github.com/sciencebanda09/bird-language-ml) | Bio-Acoustics AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | EfficientNet-B0 · species + call intent · FastAPI |
+| `10` | [**Gugugaga**](https://github.com/sciencebanda09/Gugugaga) | Audio ML | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | Infant cry classifier · EfficientNet-B0 · mel-spec |
+| `11` | [**waifu**](https://github.com/sciencebanda09/waifu) | Dev Companion | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | Tamagotchi for devs · persistent memory · roasts you |
+| `12` | [**EEDEN PROJECT**](https://github.com/sciencebanda09/EEDEN_PROJECT) | Stealth | ![](https://img.shields.io/badge/CLASSIFIED-ff003c?style=flat-square&labelColor=0d1117) | — |
 
 </div>
 
@@ -112,9 +115,10 @@ subject = {
 │  ───────────────────────────────────────────────────────────────   │
 │  Not a drone detector. The decision layer above all hardware.      │
 │                                                                    │
-│  Intercept Rate   →  97.2%                                         │
-│  Decision Latency →  23ms                                          │
-│  Deployment       →  Hardware-agnostic · on-prem                   │
+│  Intercept Rate   →  88.7% SR                                      │
+│  Decision Latency →  13ms                                          │
+│  Hardware         →  Raspberry Pi 5 + Arduino                      │
+│  Algorithms       →  IMM-EKF tracking · APN guidance · Hungarian   │
 │  Version          →  v18                                           │
 │  Submission       →  iDEX DISC14                                   │
 ╚────────────────────────────────────────────────────────────────────╝
@@ -231,4 +235,4 @@ subject = {
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:00253a,100:0d1117&height=130&section=footer&text=Bihar%20%E2%86%92%20World%20%C2%B7%208%20Systems%20%C2%B7%20Still%20Building&fontSize=16&fontColor=00ffcc&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:00253a,100:0d1117&height=130&section=footer&text=Bihar%20%E2%86%92%20World%20%C2%B7%2012%20Systems%20%C2%B7%20Still%20Building&fontSize=16&fontColor=00ffcc&fontAlignY=65" width="100%"/>
