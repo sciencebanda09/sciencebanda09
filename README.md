@@ -196,9 +196,9 @@ subject = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sciencebanda09&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&border_color=00ffcc33&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=sciencebanda09&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&border_color=00ffcc33" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sciencebanda09&layout=compact&theme=dark&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&border_color=00ffcc33&langs_count=6" height="165"/>
+<img src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs/?username=sciencebanda09&layout=compact&theme=dark&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&border_color=00ffcc33&langs_count=6" height="165"/>
 
 <br/><br/>
 
