@@ -45,7 +45,7 @@
 ```python
 subject = {
     "name"       : "Shashank Dev",
-    "age"        : 19,
+    "age"        : 20,
     "base"       : "Bihar, India",
     "role"       : "Founder & CEO — D-MechatronicX",
     "arc"        : "₹280 Arduino (2021) → World Champion (2024) → NeurIPS (2026)",
