@@ -1,32 +1,30 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00253a,100:00ffcc&height=220&section=header&text=SHASHANK%20DEV&fontSize=56&fontColor=00ffcc&fontAlignY=38&desc=Defense%20AI%20%C2%B7%20Robotics%20%C2%B7%20Constrained%20RL&descAlignY=58&descSize=18&descColor=88ffee&animation=fadeIn" width="100%"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/sciencebanda09/sciencebanda09/main/ascii_header.svg" width="700"/>
+</div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=AEGIS-X+%7C+Counter-Drone+Decision+Engine;CCPL+%7C+NeurIPS+2026;SH-WFS+AO+%7C+ISRO+BAH+2026;D-MechatronicX+%7C+Bihar+to+World;sense().+predict().+act()." alt="Typing SVG" />
-
-<br/><br/>
 
 ![Age](https://img.shields.io/badge/AGE-20-00ffcc?style=for-the-badge&labelColor=0d1117&color=00ffcc)
 ![Location](https://img.shields.io/badge/LOCATION-Bihar%2C_India-00ffcc?style=for-the-badge&labelColor=0d1117&color=00ffcc)
 ![Status](https://img.shields.io/badge/STATUS-STILL_BUILDING-ff003c?style=for-the-badge&labelColor=0d1117&color=ff003c)
+
+<br/>
+
 ![NeurIPS](https://img.shields.io/badge/NeurIPS_2026-SUBMITTED-ffcc00?style=for-the-badge&labelColor=0d1117&color=ffcc00)
 ![iDEX](https://img.shields.io/badge/iDEX_DISC14-APPLIED-ff6600?style=for-the-badge&labelColor=0d1117&color=ff6600)
 ![ISRO](https://img.shields.io/badge/ISRO_BAH_2026-APPLIED-9966ff?style=for-the-badge&labelColor=0d1117&color=9966ff)
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/◈_FULL_STORY-mindofshashank.vercel.app-00ffcc?style=for-the-badge&labelColor=0d1117)](https://mindofshashank.vercel.app)
+[![Syntheta AI](https://img.shields.io/badge/◈_STARTUP-synthetaai.com-00ffcc?style=for-the-badge&labelColor=0d1117)](https://synthetaai.com/)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://www.linkedin.com/in/shashank-dev-vigyanveer/)
 [![Instagram](https://img.shields.io/badge/Instagram-@mechmind__09-E1306C?style=for-the-badge&logo=instagram&labelColor=0d1117)](https://www.instagram.com/mechmind_09/)
 ![Visitors](https://komarev.com/ghpvc/?username=sciencebanda09&style=for-the-badge&color=00ffcc&labelColor=0d1117&label=PROFILE+VIEWS)
 
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sciencebanda09/sciencebanda09/main/assets/ascii_avatar.svg" width="450"/>
 </div>
 
 ---
@@ -53,13 +51,44 @@ subject = {
     "name"       : "Shashank Dev",
     "age"        : 20,
     "base"       : "Bihar, India",
-    "role"       : "Founder & CEO — D-MechatronicX",
+    "role"       : "Founder & CEO — D-MechatronicX · CTO & Co-Founder — Syntheta AI",
     "arc"        : "₹280 Arduino (2021) → World Champion (2024) → NeurIPS (2026)",
-    "active_ops" : ["AEGIS-X", "CCPL/NeurIPS", "SH-WFS AO/ISRO", "iDEX DISC14"],
+    "active_ops" : ["AEGIS-X", "CCPL/NeurIPS", "SH-WFS AO/ISRO", "iDEX DISC14", "Syntheta AI"],
     "loop"       : ["sense()", "predict()", "act()"],
     "doctrine"   : "Don't wait for the right conditions. Build through them.",
 }
 ```
+
+---
+
+## `> NOW.building()`
+
+<div align="center">
+
+```
+╔────────────────────────────────────────────────────────────────────╗
+│  SYNTHETA AI  // SYNTHETIC DATA INFRASTRUCTURE FOR PHYSICAL AI     │
+│  ───────────────────────────────────────────────────────────────   │
+│  Co-founded with Jay Aditya & Hardit Singh · CTO                   │
+│                                                                    │
+│  Problem     →  Real-world data for robots/drones/factories        │
+│                 is scarce, expensive, and slow to collect          │
+│  Approach    →  10–50x synthetic amplification anchored to real    │
+│                 captures, validated against domain gap             │
+│  Pipeline    →  Real2Robust mutation · NeuroDepth-T4 low-light     │
+│                 restoration · FunctaGen neural re-synthesis        │
+│  Status      →  YC application · 2 signed LOIs · pre-revenue       │
+│  Site        →  synthetaai.com                                     │
+╚────────────────────────────────────────────────────────────────────╝
+```
+
+</div>
+
+<div align="center">
+
+[![Syntheta AI](https://img.shields.io/badge/◈_VISIT-synthetaai.com-00ffcc?style=for-the-badge&labelColor=0d1117)](https://synthetaai.com/)
+
+</div>
 
 ---
 
@@ -172,6 +201,7 @@ subject = {
 ## `> git log --format="%s" 2021..2026`
 
 ```
+[2026] Co-founded Syntheta AI — synthetic data infra for physical AI
 [2026] ISRO BAH 2026 submitted — SH-WFS adaptive optics pipeline
 [2026] iDEX DISC14 submitted — AEGIS-X counter-drone AI
 [2026] NeurIPS 2026 submitted — CCPL constrained RL framework
@@ -221,7 +251,7 @@ subject = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sciencebanda09&theme=dark&background=0d1117&ring=00ffcc&fire=ff003c&currStreakLabel=00ffcc&sideLabels=888888&border=00ffcc33" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=sciencebanda09&theme=dark&background=0d1117&ring=00ffcc&fire=ff003c&currStreakLabel=00ffcc&sideLabels=888888&border=00ffcc33" width="500"/>
 
 <br/><br/>
 
@@ -240,6 +270,7 @@ subject = {
 ```
 ✓  Research collaborations · safe RL · constrained decision-making
 ✓  Defense-tech conversations · autonomy · counter-drone systems
+✓  Physical AI data infrastructure · Syntheta AI partnerships/pilots
 ✓  iDEX / DRDO / ISRO / Indian defense + space ecosystem
 ✓  Brutal feedback on CCPL — if you can break it, tell me
 ✗  Waiting for the right conditions
@@ -248,6 +279,7 @@ subject = {
 <div align="center">
 
 [![◈ Start a Conversation](https://img.shields.io/badge/◈_START_A_CONVERSATION-mindofshashank.vercel.app-00ffcc?style=for-the-badge&labelColor=0d1117)](https://mindofshashank.vercel.app/#contact)
+[![◈ Syntheta AI](https://img.shields.io/badge/◈_SYNTHETA_AI-synthetaai.com-00ffcc?style=for-the-badge&labelColor=0d1117)](https://synthetaai.com/)
 
 </div>
 
