@@ -7,7 +7,7 @@
 
 <br/><br/>
 
-![Age](https://img.shields.io/badge/AGE-19-00ffcc?style=for-the-badge&labelColor=0d1117&color=00ffcc)
+![Age](https://img.shields.io/badge/AGE-20-00ffcc?style=for-the-badge&labelColor=0d1117&color=00ffcc)
 ![Location](https://img.shields.io/badge/LOCATION-Bihar%2C_India-00ffcc?style=for-the-badge&labelColor=0d1117&color=00ffcc)
 ![Status](https://img.shields.io/badge/STATUS-STILL_BUILDING-ff003c?style=for-the-badge&labelColor=0d1117&color=ff003c)
 ![NeurIPS](https://img.shields.io/badge/NeurIPS_2026-SUBMITTED-ffcc00?style=for-the-badge&labelColor=0d1117&color=ffcc00)
@@ -21,6 +21,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@mechmind__09-E1306C?style=for-the-badge&logo=instagram&labelColor=0d1117)](https://www.instagram.com/mechmind_09/)
 ![Visitors](https://komarev.com/ghpvc/?username=sciencebanda09&style=for-the-badge&color=00ffcc&labelColor=0d1117&label=PROFILE+VIEWS)
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/sciencebanda09/sciencebanda09/main/assets/ascii_avatar.svg" width="450"/>
 </div>
 
 ---
@@ -57,7 +63,7 @@ subject = {
 
 ---
 
-## `> SYSTEMS_MANIFEST --all`
+## `> SYSTEMS_MANIFEST --flagship`
 
 <div align="center">
 
@@ -67,16 +73,29 @@ subject = {
 | `02` | [**CCPL**](https://github.com/sciencebanda09/CCPL-Causal-Consequence-Penalized-Learning) | Constrained RL | ![](https://img.shields.io/badge/NeurIPS_2026-ffcc00?style=flat-square&labelColor=0d1117) | Dual-stream actor-critic · Pure NumPy |
 | `03` | [**SH-WFS AO Pipeline**](https://github.com/sciencebanda09/shwfs-ao-pipeline) | Adaptive Optics AI | ![](https://img.shields.io/badge/ISRO_BAH_2026-9966ff?style=flat-square&labelColor=0d1117) | C+OpenMP centroiding · CNN reconstruction · SLODAR |
 | `04` | [**ROADSOS**](https://github.com/sciencebanda09/ROADSOS) | Emergency AI | ![](https://img.shields.io/badge/v3.1.1_LIVE-00ff88?style=flat-square&labelColor=0d1117) | 60+ countries · crash detection |
+
+</div>
+
+<details>
+<summary><b>› SYSTEMS_MANIFEST --archived</b> (7 additional builds)</summary>
+
+<br/>
+
+<div align="center">
+
+| `ID` | `SYSTEM` | `DOMAIN` | `STATUS` | `METRICS` |
+|:----:|----------|----------|:--------:|-----------|
 | `05` | [**TARS Robot**](https://github.com/sciencebanda09/TARS-Robot) | Offline AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 100% offline · IMM-EKF · episodic memory |
 | `06` | [**RoboticOS**](https://github.com/sciencebanda09/RoboticOS) | Embedded OS | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 11 subsystems · RTOS-inspired · safety kernel |
 | `07` | [**Nexus MultiAgent**](https://github.com/sciencebanda09/nexus-multiagent) | Multi-Agent AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | 6 agents · 12 tools · ChromaDB memory · Ollama |
 | `08` | [**Chronos Engine**](https://github.com/sciencebanda09/chronos-engine) | Causal Simulation | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | Fork realities · causal timeline engine |
 | `09` | [**bird-language-ml**](https://github.com/sciencebanda09/bird-language-ml) | Bio-Acoustics AI | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | EfficientNet-B0 · species + call intent · FastAPI |
 | `10` | [**Gugugaga**](https://github.com/sciencebanda09/Gugugaga) | Audio ML | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | Infant cry classifier · EfficientNet-B0 · mel-spec |
-| `11` | [**waifu**](https://github.com/sciencebanda09/waifu) | Dev Companion | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | Tamagotchi for devs · persistent memory · roasts you |
-| `12` | [**EEDEN PROJECT**](https://github.com/sciencebanda09/EEDEN_PROJECT) | Stealth | ![](https://img.shields.io/badge/CLASSIFIED-ff003c?style=flat-square&labelColor=0d1117) | — |
+| `11` | [**waifu**](https://github.com/sciencebanda09/waifu) | Dev Companion | ![](https://img.shields.io/badge/BUILT-888888?style=flat-square&labelColor=0d1117) | Tamagotchi for devs · persistent memory |
 
 </div>
+
+</details>
 
 ---
 
@@ -235,4 +254,4 @@ subject = {
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:00253a,100:0d1117&height=130&section=footer&text=Bihar%20%E2%86%92%20World%20%C2%B7%2012%20Systems%20%C2%B7%20Still%20Building&fontSize=16&fontColor=00ffcc&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:00253a,100:0d1117&height=130&section=footer&text=Bihar%20%E2%86%92%20World%20%C2%B7%2011%20Systems%20%C2%B7%20Still%20Building&fontSize=16&fontColor=00ffcc&fontAlignY=65" width="100%"/>
