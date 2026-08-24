@@ -99,7 +99,7 @@ subject = {
 | `ID` | `SYSTEM` | `DOMAIN` | `STATUS` | `METRICS` |
 |:----:|----------|----------|:--------:|-----------|
 | `01` | [**AEGIS-X**](https://github.com/sciencebanda09/AEGIS-X-Overview) | Counter-Drone AI | ![](https://img.shields.io/badge/v18_LIVE-00aaff?style=flat-square&labelColor=0d1117) | 88.7% SR · 13ms · RPi5 + Arduino |
-| `02` | [**CCPL**](https://github.com/sciencebanda09/CCPL-Causal-Consequence-Penalized-Learning) | Constrained RL | ![](https://img.shields.io/badge/NeurIPS_2026-ffcc00?style=flat-square&labelColor=0d1117) | Dual-stream actor-critic · Pure NumPy |
+| `02` | [**CCPL**](https://github.com/sciencebanda09/CCPL) | Constrained RL | ![](https://img.shields.io/badge/NeurIPS_2026-ffcc00?style=flat-square&labelColor=0d1117) | Dual-stream actor-critic · Pure NumPy |
 | `03` | [**SH-WFS AO Pipeline**](https://github.com/sciencebanda09/shwfs-ao-pipeline) | Adaptive Optics AI | ![](https://img.shields.io/badge/ISRO_BAH_2026-9966ff?style=flat-square&labelColor=0d1117) | C+OpenMP centroiding · CNN reconstruction · SLODAR |
 | `04` | [**ROADSOS**](https://github.com/sciencebanda09/ROADSOS) | Emergency AI | ![](https://img.shields.io/badge/v3.1.1_LIVE-00ff88?style=flat-square&labelColor=0d1117) | 60+ countries · crash detection |
 
